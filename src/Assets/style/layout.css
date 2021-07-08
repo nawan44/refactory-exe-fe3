@@ -1,0 +1,17 @@
+.MuiToolbar-root{
+    margin: 0 10px 0 20px;
+    text-decoration: none;
+    color: #fff !important;
+    background-color: aqua;
+}
+label.MuiFormLabel-root.formLabel {
+    padding: 10px 0 !important;
+}
+.appbar-contact a.active:before{
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
+.active {
+	color: orange;
+}
